@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.ComicBookGallery PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ComicBookGallery Status">
     <Files>
-      <File FileName="Controllers/ComicBooksController.cs" Line="17" Column="1" />
+      <File FileName="Controllers/ComicBooksController.cs" Line="21" Column="2" />
       <File FileName="ComicBookGallery Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
