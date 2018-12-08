@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="ComicBookGallery Status">
     <Files>
       <File FileName="Controllers/ComicBooksController.cs" Line="17" Column="1" />
-      <File FileName="Views/ComicBooks/Detail.cshtml" Line="17" Column="1" />
+      <File FileName="Views/ComicBooks/Detail.cshtml" Line="29" Column="26" />
       <File FileName="ComicBookGallery Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
